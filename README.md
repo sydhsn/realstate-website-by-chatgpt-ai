@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # [Demo](https://sydhsn.github.io/realstate-website-by-chatgpt-ai/)
 
-### NextJs with Tailwind Real State website using ChatGPT
+### [NextJs](https://nextjs.org/) with [Tailwindcss](https://tailwindcss.com/) Real State website using [ChatGPT](https://chat.openai.com/)
 ## Getting Started
 
 First, run the development server:
